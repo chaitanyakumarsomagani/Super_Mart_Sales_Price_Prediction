@@ -1,2 +1,1 @@
-# Super_Mart_Sales_Price_Prediction
-Improve the revenue of the super mart 
+# Super-Mart-Product-Price-Sales-Prediction
